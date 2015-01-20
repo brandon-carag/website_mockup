@@ -1,0 +1,40 @@
+body {
+    font-family: Verdana, sans-serif;
+    color: #666666;
+    font-size: 20px;
+}
+h1 {
+    margin-top: 47px;
+    margin-bottom: 26px;
+    font-size: 50px;
+}
+h2 {
+    margin-top: 0px;
+    margin-bottom: 30px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #F07C17;
+}
+
+.outlined-box {
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgray;
+} 
+
+
+.indent-left {
+    padding-left: 50px;
+}
+
+.mug-box {
+    margin-bottom: 50px;
+}
+
+.mockup-overlay {
+        display: none;
+       top: 0;
+       position: absolute;
+       z-index: -1;
+       opacity: .4;
+    }
