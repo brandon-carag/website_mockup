@@ -14,7 +14,7 @@ h1 {
 }
 
 h2 {
-    margin: 0px 0px 30px 5px; 
+    margin: 0px 0px 25px 5px; 
     color: #f07c17;
     font: bold 25px Verdana;
     /*font-size: 25px;*/
@@ -33,7 +33,7 @@ p {
 }
 
 ul {
-    line-height: 25px;
+    line-height: 32px;
 }
 
 
@@ -46,7 +46,7 @@ ul {
 */} 
 
 .mug-box {
-    margin: 0px 0px 50px 0px;
+    margin: 0px 0px 25px 0px;
     /*margin-bottom: 50px;*/
 }
 
